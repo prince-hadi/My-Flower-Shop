@@ -343,7 +343,44 @@ color: white;
 }
 
 
+.joining-container{
+    max-width: 100%;
+    height: 533px;
+    background-image: url(assets/news-letter-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-top: 120px;
 
+
+}
+.joining-title{
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: white;
+    box-sizing: border-box;
+    padding-top: 185px;
+}
+#input{
+    padding: 15px 540px 15px 20px;
+    border: none;
+    margin-right: 0px;
+
+}
+
+.btn-2{
+   padding: 13px 40px 15px 40px;
+   box-sizing: border-box;
+     background-color: #E95A08;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-left: 0px;
+    margin-top: 0px;
+}
 
 
 
@@ -481,7 +518,7 @@ color: white;
         height: 189px;
     }
     
-    }
+    
     .plant-title{
         font-size: 1.5rem;
         font-weight: bold;
