@@ -456,4 +456,51 @@ color: white;
         font-size: 14px;
         font-weight: 400;
     }
+    /* latest */
+
+    .Latest-Deals{
+        padding: 30px;
+        box-sizing: border-box;
+        margin: auto;
+        text-align: center;
+    }
+    .discaunt-plant{
+        grid-template-areas:
+            "plant-1"
+            "plant-2"
+            "plant-3";
+        grid-template-columns: 1fr;
+        height: auto;
+        margin-left: -5px;
+        margin-top: 50px;
+
+
+    }
+    .plant-1, .plant-2, .plant-3{
+      width: 361px;
+        height: 189px;
+    }
+    
+    }
+    .plant-title{
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+    .plant-sub-title{
+        font-size: 14px;
+        max-width:326px ;
+
+    }
+    .plant-3{
+        width: 361px;
+        height: 189px;
+    }
+    .disc-title-3{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 50px;
+    }
+    .p-title-3 a{
+        font-size: 16px;
+    }
 }
