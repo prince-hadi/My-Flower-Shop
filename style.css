@@ -617,4 +617,9 @@ color: white;
     margin-left: 0px;
     margin-top: 0px;
     }
+    .footer-section{
+        flex-direction: column;
+        margin-left: 15px;
+        margin-bottom: 60px;
+    }
 }
