@@ -471,7 +471,7 @@ color: white;
         padding: 16px;
     }
 
-    .title {
+    .hero-title {
         font-size: 1.5rem;
     }
 
@@ -486,6 +486,7 @@ color: white;
     .Plants {
         padding: 15px;
         box-sizing: border-box;
+        margin-top: 20px;
 
     }
 
@@ -515,7 +516,7 @@ color: white;
 
     .btn {
         width: 100%;
-        padding: 20px 0px;
+        padding: 15px 0px;
     }
 
     .flower-lover{
