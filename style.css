@@ -540,4 +540,31 @@ color: white;
     .p-title-3 a{
         font-size: 16px;
     }
+    .joining-title{
+        font-size: 20px;
+        font-weight: bold;
+
+    }
+
+    .joining-container {
+        max-width: 100%;
+        margin-top: 44px;
+    }
+    #input{
+    padding: 15px 20px 15px 20px;
+        font-size: 16px;
+        width: 218px;
+    }
+    .btn-2{
+        padding: 15px 12px 15px 12px;
+   box-sizing: border-box;
+     background-color: #E95A08;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-left: 0px;
+    margin-top: 0px;
+    }
 }
